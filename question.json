@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "question":"what is the capital of france?",
+        "option":["Berlin","Madrid","pairs","rome"],
+        "cooretOption":"pairs"
+    },
+    {
+        "id":2,
+        "question":"what is the capital of france?",
+        "option":["Berlin","Madrid","pairs","rome"],
+        "cooretOption":"pairs"
+    },
+    {
+        "id":3,
+        "question":"what is the capital of france?",
+        "option":["Berlin","Madrid","pairs","rome"],
+        "cooretOption":"pairs"
+    }
+]
